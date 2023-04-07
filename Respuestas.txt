@@ -1,10 +1,11 @@
 # ¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
 
-No se ve el archivo porque estoy en otra rama.
+No puedo ver el archivo porque esta en una rama diferente en la cual estoy.
 
 #¿Qué diferencias nota?
 
-Se pueden observar las dos ramas.
+Se pueden observar las dos ramas en la representación gráfica y en el repositorio.
 
 #  ¿Qué nota?
-Se hizo merge
+
+Se unieron las ramas en una sola que es main. 

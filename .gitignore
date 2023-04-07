@@ -2,6 +2,10 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=c,macos,visualstudiocode
 
 ### C ###
+#Ejecutables
+tp2_1_1
+tp2_1_2
+
 # Prerequisites
 *.d
 
